@@ -876,7 +876,8 @@ __Elastic Beanstalk__ can be used to host __Docker containers__.
 __AWS Storage Gateways__—
 
 1. File gateway
-https://k2y3h8q6.stackpathcdn.com/wp-content/uploads/2018/12/AWSStoragegateway.jpg
+![File gateway]
+(https://k2y3h8q6.stackpathcdn.com/wp-content/uploads/2018/12/AWSStoragegateway.jpg)
 2. Volume gateway: Cached volumes
 3. Volume gateway: Stored volumes
 4. Tape gateway
